@@ -1,0 +1,10 @@
+[package]
+name = "mirath-rs-akdariyyah-mushtarakah"
+version = "1.0.0"
+edition = "2021"
+description = "Special Fara'id Cases Solver (Al-Akdariyyah, Al-Mushtarakah, Al-Umariyyatan)"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "mirath_rs_akdariyyah_mushtarakah"
+path = "main.rs"
